@@ -13,11 +13,11 @@
   transition: all 0.5s;
 }
 
-.nav__bar {
+.nav_bar {
   background-color: #111;
 }
 
-.nav__logo {
+.nav_logo {
   position: fixed;
   left: 20px;
   width: 80px;
