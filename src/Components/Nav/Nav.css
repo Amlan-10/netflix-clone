@@ -24,7 +24,7 @@
   object-fit: contain;
 }
 
-.nav__avatar {
+.nav_avatar {
   position:fixed;
   right: 20px;
   width: 30px;
